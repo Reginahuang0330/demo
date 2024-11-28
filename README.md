@@ -20,15 +20,14 @@
 - 利用 Matplotlib、Seaborn 等工具生成圖表。
 - 視覺化數據分布與分析結果。
 # 使用方法
-環境準備
-
-確保安裝以下 Python 套件：
-numpy
-pandas
-matplotlib
-seaborn
-安裝方式：
-pip install numpy pandas matplotlib seaborn
+1. 環境準備
+- 確保安裝以下 Python 套件：
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+- 安裝方式：
+  - ```pip install numpy pandas matplotlib seaborn```
 執行 Notebook
 
 將 Notebook 上傳至 Jupyter Notebook 或 JupyterLab 環境中。
